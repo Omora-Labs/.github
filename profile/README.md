@@ -1,13 +1,3 @@
-# Omora Labs
-
-We build production-grade tools at the intersection of finance, data, and engineering.
-
-→ Financial automation  
-→ AI-powered analytics  
-→ Product-ready data infrastructure  
-
-Practical. Reliable. Built for real-world use.
-
 Omora Labs builds automated systems so you get your numbers in minutes, not weeks.
 
 We help finance teams ship outcomes like:
